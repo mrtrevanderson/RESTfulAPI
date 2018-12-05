@@ -4,7 +4,8 @@
 Node_modules folder is ommitted
 
 
-######Before you start
+Before you start
+------------------
 
 
 -Make sure you have Node.js and MongoDB installed
@@ -16,7 +17,8 @@ In your terminal--
 -Create a package.json file or edit the one provided **npm init**
 
 
-######To run
+To run
+-----------------
 
 Add the api folder, package.json file and server.js file to the todoListApi folder
 
